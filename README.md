@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: Sou do país Recife, Pernambuco, Brasil.
 
-:books: No momento estou estudando HTML, CSS, React, MySQL, Javascript, Node.js, HTTP, no bootcamp Gama Experience #37, da Gama Academy.
+:books: No momento estou estudando Bootstrap, HTML, CSS, React, MySQL, Javascript, Node.js, HTTP, no bootcamp Gama Experience #37, da Gama Academy.
 
 :outbox_tray: Metas de 2021: conseguir emprego e aprender mais ainda!
  
